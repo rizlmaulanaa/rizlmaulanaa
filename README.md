@@ -24,11 +24,11 @@ Small, focused tools for authorized security testing and lab work. No bloat, no 
 | [url-mask](https://github.com/rizlmaulanaa/url-mask) | URL masking via `@` userinfo trick — phishing awareness |
 | [linux-user-tools](https://github.com/rizlmaulanaa/linux-user-tools) | Bulk Linux account create/delete helpers for workshops |
 | [cam-hijack](https://github.com/rizlmaulanaa/cam-hijack) | Authorized browser camera demonstration lab *(private)* |
-| [onx-burp-ext](https://github.com/rizlmaulanaa/onx-burp-ext) | Burp extension: decrypt/edit client-side encrypted API payloads *(private)* |
-| [phishing-workshop-materials](https://github.com/rizlmaulanaa/phishing-workshop-materials) | Hands-on phishing simulation workshop slides + training material |
-| [portofolio](https://github.com/rizlmaulanaa/portofolio) | Personal portfolio — IT support & cybersecurity learner |
+| [CVE-2026-23479-Redis-UAF-PoC](https://github.com/rizlmaulanaa/CVE-2026-23479-Redis-UAF-Proof-of-Concept) | Redis use-after-free PoC — GDB-assisted exploitation *(personal)* |
 
-> Some repos are private (engagement / lab safety). Links go to the public ones; private names are listed for context.
+| onx-burp-ext *(private)* | Burp extension: decrypt/edit client-side encrypted API payloads |
+
+> Private repos listed for context only — engagements and lab safety.
 
 ---
 
